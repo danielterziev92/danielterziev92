@@ -1,4 +1,5 @@
 # Hi there, I'm Daniel Terziev👋
+I'm learning Python at Softuni
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=danielterziev92&show_icons=true&theme=onedark' />
 <img align='right' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=danielterziev92&layout=compact' />

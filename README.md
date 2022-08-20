@@ -1,5 +1,5 @@
 # Hi there, I'm Daniel Terziev👋
-I'm learning Python at Softuni
+I'm learning Python and JavaScript at Softuni
 
 Here you can check my certificate: [click here for certificate]
 

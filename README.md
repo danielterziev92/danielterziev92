@@ -1,5 +1,6 @@
 # Hi there, I'm Daniel Terziev👋
-I'm learning Python and JavaScript at Softuni
+I'm learning Python and JavaScript at [Softuni]
+[Softuni]: https://softuni.bg/
 
 Here you can check my certificate: [click here for certificate]
 

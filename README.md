@@ -7,8 +7,8 @@ Here you can check my certificate: [click here for certificate]
 
 [click here for certificate]: https://drive.google.com/drive/folders/1He-HczkrF50IQYqu6OrVnJA5RWATN3Eu?usp=sharing
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=danielterziev92&show_icons=true&theme=onedark' />
-<img align='right' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=danielterziev92&layout=compact' />
+<img align='left' width='48%' src='https://github-readme-stats.vercel.app/api?username=danielterziev92&show_icons=true&theme=onedark' />
+<img align='right' width='48%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=danielterziev92&layout=compact' />
 
 
 <img align='left' alt='Python' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />

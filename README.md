@@ -62,7 +62,7 @@ specialized knowledge and skills in electronic, digital and microprocessor techn
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" alt="Gmail" width="38px">](mailto:daniel.st.terziev@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielterziev92&show_icons=true&theme=onedark)
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=danielterziev92&show_icons=true&theme=onedark' />
 <img align='right' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=danielterziev92&layout=compact&theme=onedark' />
 
 [SoftUni]: https://softuni.bg/

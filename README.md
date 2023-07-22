@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>About me:</summary>
+<summary><h3>About me:</h3></summary>
 
 ### My education at [SoftUni]
 #### _From 03/2022 - Present_
@@ -25,7 +25,7 @@ All of my certificates can find here [certificates]
 specialized knowledge and skills in electronic, digital and microprocessor technology, programming, operating systems, databases, computer networks and communications, optical communications, mobile communication systems and software, control and diagnostics of computer systems, coding and security of the information.
 </details>
 <details>
-<summary>Technical skills:</summary>
+<summary><h3>Technical skills:</h3></summary>
   
 ## **Programming Languages:**
   - Python

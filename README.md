@@ -1,3 +1,5 @@
+viewof text = Inputs.text()
+
 # Hi there, I'm Daniel Terziev👋
 I'm learning Python and JavaScript at [SoftUni]
 

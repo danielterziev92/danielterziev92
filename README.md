@@ -2,12 +2,7 @@
 ## I'm a Full-Stack Python Web Developer.
 &nbsp; &nbsp; 
 
-## About me:
-<pre>
-  A proﬁcient and motivated junior developer skilled in Python, JavaScript with Django and React.
-Enthusiastic about tackling new challenges and applying a solid foundation in web development and data management.
-</pre>
-
+A proﬁcient and motivated junior developer skilled in Python, JavaScript with Django and React.
 
 ## Education
 #### _From 03/2022 - 11/2023_
@@ -33,8 +28,10 @@ Django Framework: Models, Templates, Function-Based Views and Class-Based Views,
 
  #### _From 2011 - 2015_
 <pre>
-In my studies I received fundamental engineering and 
-specialized knowledge and skills in electronic, digital and microprocessor technology, programming, operating systems, databases, computer networks and communications, optical communications, mobile communication systems and software, control and diagnostics of computer systems, coding and security of the information.
+  In my studies I received fundamental engineering and 
+specialized knowledge and skills in electronic, digital and microprocessor technology, programming, operating systems,
+databases, computer networks and communications, optical communications, mobile communication systems and software,
+control and diagnostics of computer systems, coding and security of the information.
 </pre>
 
 <details>

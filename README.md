@@ -1,6 +1,5 @@
 # Hello! My name is Daniel Terziev.
 ## I'm a Full-Stack Python Web Developer.
-&nbsp;
 
 A proﬁcient and motivated junior developer skilled in Python, JavaScript with Django and React.
 

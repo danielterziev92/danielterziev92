@@ -1,85 +1,67 @@
-# Hello! My name is Daniel Terziev.
-## I'm a Full-Stack Python Web Developer.
+# 👋 Hi, I'm Daniel Terziev
 
-A proﬁcient and motivated junior developer skilled in Python, JavaScript with Django and React.
+## 🚀 Full Stack Developer
 
-## Education
-#### _From 03/2022 - 11/2023_
+I'm a Full Stack Developer passionate about creating modern web applications using Python and JavaScript technologies. I
+focus on building scalable solutions and implementing best practices in software development.
 
-<pre>
-  Proﬁcient in Python and OOP, with expertise in data structures, algorithms,and Django for web applications.
-Skilled in Linux system administration and experienced in creating ReactJS SPAs with AWS deployment.
-</pre>
-Link to my [Diploma]
+### 💻 Tech Stack
 
-<details>
-<summary>More info about education in SoftUni!</summary>
-  
-  * __[Python Advance]__ and __[OOP]__ (09/2023 - 12/2023) - Working with linear, multidimensional, and associative data structures, file and directory operations, and file and error handling. Application of basic algorithms and functional programming. Object-oriented programming: classes, objects, and OOP principles. Using decorators, design patterns, and UNIT testing.
-  * __[HTML & CSS]__ and __[JS Front-End]__ (01/2023 - 04/2023) - Working with HTML Structure, CSS and Typograpthy, Box Models, Positioning and Media Queries.
-JavaScript: classes and objects, linear, multidimensional and associative data structures, DOM Manipulations and Events, UNIT testing and error handling, OOP ,functional and asynchronous programing, SPA applications, HTTP and REST Services.
-  * __[Python Web Framework]__ (05/2023 - 08/2023) - Working with HTTP Services, PostgreSQL and Django Framework.
-Django Framework: Models, Templates, Function-Based Views and Class-Based Views, Forms and Model Forms, Roles, Sessions, Users, Admin Site, Common web tools, Unit and Integrations testing, asynchronous tasks, deployment, hosting and monitoring. Django REST Framework: Serializers and API Views.
-  * __[Linux System Administration]__ (06/2023 - 08/2023) - Working on the console only. I’ve learingn to work with file and directories, access permissions, users and groups, text editors, regular expressions, searching and extract information from files, flows management, networks services, packages and bundled managers, remote access, file storage services, boot method and managers, process management, system monitoring, disks and patitions, backup and recovery, creating scripts, automate tasks and performing on schedule.
-  * __[PostgreSQL]__ (09/2023 - 10/2023) - In the course we got acquainted with the lexical structure in PostgreSQL, retrieving data and data manupulation. We also studied string, math and date/time functions, and wildcards.We used all aggregation functionс, grouping, hanving and conditional statements. We passed through database design, table relations, JOINs and cascade operations. Also subqueries, indices, User-Defined functions, stored procedures, transactions and triggers.
-  * __[React JS]__ (10/2023 - 12/2023) - In the course we studied Lists & Keys, Component Lifecycle, Higher-Order-Components, CSS Modules, Fetching Data, Controlled Forms, Uncontrolled Forms, Validation, Virtual DOM, Routing Overview, React Router, React Lazy and Suspense,  React Hooks ( useState, useEffect, useReducer, useLayoutEffect, useRef, useContext, custom hooks and other ), Error Boundaries and Unit Testing with JEST.
-</details>
+#### Back-End Development
 
- #### _From 2011 - 2015_
-<pre>
-  In my studies I received fundamental engineering and 
-specialized knowledge and skills in electronic, digital and microprocessor technology, programming, operating systems,
-databases, computer networks and communications, optical communications, mobile communication systems and software,
-control and diagnostics of computer systems, coding and security of the information.
-</pre>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-<details>
-<summary><h3>Technical skills:</h3></summary>
-  
-## **Programming Languages:**
-  - Python
-  - JavaScript
-  - HTML & CSS
+#### Front-End Development
 
-## **Frameworks:**
-  - Django
-  - Django REST (DRF)
-  - ReactJS
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
+#### Databases
 
-## **Databases:**
-  - PostgreSQL
-  - SQLite
-  - Redis
-  - MS SQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MS SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## **Tools:**
-  - PyCharm
-  - WebStorm
-  - Visual Studio Code
-  - Docker
-  - Git
-  - Jira
-</details>
+#### Search & Monitoring
 
----
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
-### Contact with me:
+#### DevOps & Tools
 
-[<img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin-icon.svg" alt="linkedin" width="30px">](https://www.linkedin.com/in/danielterziev)
-[<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" alt="Gmail" width="38px">](mailto:daniel.st.terziev@gmail.com)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 🌟 Core Competencies
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=danielterziev92&show_icons=true&theme=onedark' />
-<img align='right' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=danielterziev92&layout=compact&theme=onedark' />
+- Building robust REST APIs using Django REST Framework
+- Developing responsive and interactive user interfaces with React
+- Working with various databases and caching solutions
+- Implementing powerful search functionality with Elasticsearch
+- Setting up asynchronous task processing with Celery
+- Containerizing applications with Docker
+- Web scraping using BeautifulSoup
 
-[SoftUni]: https://softuni.bg/
-[Diploma]: https://drive.google.com/file/d/1nt9fyefM6jg1K5wkVRUBXk-2VU9jo6W0/view
-[Python Advance]: https://drive.google.com/file/d/14wtcIBqEUppjQ_L56oYlRqmefUOEHqot/view
-[OOP]: https://drive.google.com/file/d/1PLFc9cP9qYG5FEYbdjrf-y48o68DWFKP/view
-[JS Front-End]: https://drive.google.com/file/d/1tbk8ybouIz_X8y0bCPeqlKreJ5wDsJ7A/view
-[HTML & CSS]: https://drive.google.com/file/d/1HnZfikxD9YdYKtcRK0cx6XruSEzVl6hy/view
-[Python Web Framework]: https://drive.google.com/file/d/14iTvryUKhX-3BTKTBDVbaElwpX2qgQGw/view
-[Linux System Administration]: https://drive.google.com/file/d/1wgDiTZjm8okWOQ5sOYT3l75Jl6GSDv3Q/view
-[PostgreSQL]: https://drive.google.com/file/d/1T9CFLkPtt3j6bRM2vL_Bin8W5Pn_buTM/view
-[React JS]: https://drive.google.com/file/d/1F4io55KbPPAqb5qAKXT0FgEc-yN8wxYM/view
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielterziev92&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielterziev92&theme=radical" alt="GitHub Streak" />
+</div>
+
+### 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/danielterziev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:daniel.st.terziev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>

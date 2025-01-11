@@ -48,6 +48,11 @@ focus on building scalable solutions and implementing best practices in software
 - Containerizing applications with Docker
 - Web scraping using BeautifulSoup
 
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danielterziev92&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
 ### 📊 GitHub Stats
 
 <div align="center">
